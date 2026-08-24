@@ -5,5 +5,6 @@
 
 ![Views](https://komarev.com/ghpvc/?username=devfabben&style=flat)
 
+![Snake](https://github.com/notfabben/notfabben/blob/output/github-contribution-grid-snake.svg)
 
 ###
