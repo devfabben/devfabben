@@ -3,7 +3,7 @@
 ## >kan c# hyfsat bra
 ## >kan lite elektornik 🤓
 
-![Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat)
+![Views](https://komarev.com/ghpvc/?username=devfabben&style=flat)
 
 
 ###
